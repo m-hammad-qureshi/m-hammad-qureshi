@@ -3,15 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=m-hammad-qureshi">
-    <img src="https://komarev.com/ghpvc/?username=m-hammad-qureshi&label=Profile%20views&color=a371f7&style=flat-square" alt="m-hammad-qureshi's profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=m-hammad-qureshi&label=PROFILE+VIEWS&color=a371f7&style=for-the-badge&logo=github" alt="m-hammad-qureshi" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-I am a **BS IT Graduate** with a deep interest in **Data Analytics** and Business Intelligence. Currently, I am sharpening my technical skills by tackling the **8-Week SQL Challenge**, where I specialize in transforming raw, unorganized data into structured, actionable insights. I am a firm believer in **meta-learning**—constantly training my mind to master new technologies and complex problem-solving frameworks at speed.
+- I am a **BS IT Graduate** with a deep interest in **Data Analytics** and Business Intelligence. Currently, I am sharpening my technical skills by tackling the **8-Week SQL Challenge**, where I specialize in transforming raw, unorganized data into structured, actionable insights. I am a firm believer in **meta-learning**—constantly training my mind to master new technologies and complex problem-solving frameworks at speed.
 
 ## 🧠 My Focus Areas
 - Advanced SQL Querying
@@ -20,27 +18,20 @@ I am a **BS IT Graduate** with a deep interest in **Data Analytics** and Busines
 - Business Logic Implementation
 - Exploratory Data Analysis (EDA)
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m-hammad-qureshi&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=m-hammad-qureshi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/m-hammad-qureshi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m-hammad-qureshi&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="m-hammad-qureshi's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=m-hammad-qureshi&theme=radical&hide_border=true&cache_seconds=86400" alt="m-hammad-qureshi's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=m-hammad-qureshi&theme=radical&radius=10" alt="Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=m-hammad-qureshi&theme=radical&radius=10" alt="m-hammad-qureshi's Activity Graph" />
 </p>
 
 ## 🛠️ Languages & Tools
 
-> ### 🗄️ Database & Programming
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-> ### 🔧 Tools & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+> ### Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="
