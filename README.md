@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hammad%20Qureshi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=BS%20IT%20Graduate%20%7C%20Data%20Analyst%20%26%20SQL%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,100:a371f7&height=220&section=header&text=Hammad%20Qureshi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=BS%20IT%20Graduate%20%7C%20Data%20Analyst%20%26%20SQL%20Developer&descSize=22&descColor=FFFFFF&descAlignY=62" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=m-hammad-qureshi">
