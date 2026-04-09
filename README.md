@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I am a **BS IT Graduate** with a deep interest in **Data Analytics** and Business Intelligence. Currently, I am sharpening my technical skills by tackling the **8-Week SQL Challenge**, where I specialize in transforming raw, unorganized data into structured, actionable insights. I am a firm believer in **meta-learning**—constantly training my mind to master new technologies and complex problem-solving frameworks at speed.
+- I am a **BS IT Graduate** with a deep interest in **Data Engineering**. Currently, I am sharpening my technical skills by tackling the **8-Week SQL Challenge**, where I specialize in transforming raw, unorganized data into structured, actionable insights. I am a firm believer in **meta-learning**—constantly training my mind to master new technologies and complex problem-solving frameworks at speed.
 
 ## 🧠 My Focus Areas
 - Advanced SQL Querying
