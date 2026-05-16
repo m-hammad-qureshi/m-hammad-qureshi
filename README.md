@@ -25,9 +25,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=m-hammad-qureshi&theme=radical&hide_border=true&cache_seconds=86400" alt="m-hammad-qureshi's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=m-hammad-qureshi&theme=radical&radius=10" alt="m-hammad-qureshi's Activity Graph" />
-</p>
 
 ## 🛠️ Languages & Tools
 
