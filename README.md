@@ -53,9 +53,9 @@ Currently focused on developing skills in data pipelines, cloud infrastructure, 
 
 | Project                                                         | Stack                       | Description                                                                  |
 | --------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------- |
-| [8 Week SQL Challenge](./8-Week-SQL-Challenge/)     | MySQL                       | 8 real-world case studies — customer analytics, payments, retention and more |
-| [Data Redundancy System](./Task_1_Data_Redundancy_System_Design/)   | Lambda, S3, RDS, EC2        | Ensures data availability and protection against loss, deployed on AWS       |
-| [SQL Injection Prevention](./Task_2_Secure_Cloud_Data_Ingestion/) | Elastic Beanstalk, RDS, EC2 | Parameterized query system securing DB interactions, deployed on AWS         |
+| [8 Week SQL Challenge](https://github.com/m-hammad-qureshi/8-Week-SQL-Challenge)     | MySQL                       | 8 real-world case studies — customer analytics, payments, retention and more |
+| [Data Redundancy System](https://github.com/m-hammad-qureshi/CodeAlpha_Cloud_Computing/tree/main/Task_1_Data_Redundancy_System_Design)   | Lambda, S3, RDS, EC2        | Ensures data availability and protection against loss, deployed on AWS       |
+| [SQL Injection Prevention]([./Task_2_Secure_Cloud_Data_Ingestion/](https://github.com/m-hammad-qureshi/CodeAlpha_Cloud_Computing/tree/main/Task_2_Secure_Cloud_Data_Ingestion)) | Elastic Beanstalk, RDS, EC2 | Parameterized query system securing DB interactions, deployed on AWS         |
 
 ---
 
