@@ -1,66 +1,62 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=a371f7&center=true&vCenter=true&width=600&lines=Hammad+Qureshi;BS+IT+Graduate;Data+Engineer+%26+SQL+Developer" alt="Typing SVG" />
-</p>
+# Hammad Qureshi — Data Engineer in Training
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m-hammad-qureshi&color=a371f7&style=for-the-badge&logo=github" alt="m-hammad-qureshi" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/m-hammad-qureshi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hammadquraeshi79@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
+---
 
-## 📌 About Me
-- I am a **BS IT Graduate** with a deep interest in **Data Engineering**. Currently, I am sharpening my technical skills by tackling the **8-Week SQL Challenge**, where I specialize in transforming raw, unorganized data into structured, actionable insights. I am a firm believer in **meta-learning**—constantly training my mind to master new technologies and complex problem-solving frameworks at speed.
+Data engineer in training focused on SQL, Python, and AWS.
+I build data projects, document my process, and publish everything here.
 
-## 🧠 My Focus Areas
-- Advanced SQL Querying
-- Data Cleaning & Standardization
-- Relational Database Design
-- Business Logic Implementation
-- Exploratory Data Analysis (EDA)
+📌 Current focus: SQL • Python • AWS • Data Engineering
 
-## 🛠️ Languages & Tools
+* 🗄️ Completed Danny Ma's **8 Week SQL Challenge** — documented solutions across 8 real-world case studies
+* ☁️ Built and deployed **2 systems on AWS** — data redundancy & SQL injection prevention
+* 🐍 Sharpening **Python** through daily challenges and real systems
+* 📊 Working through **DataCamp's Data Engineer in SQL** path
 
-> ### Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</p>
+Currently focused on developing skills in data pipelines, cloud infrastructure, and production-ready data systems.
 
-> ### Frontend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</p>
+---
 
-> ### Database
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-</p>
+## 🛠️ Tech Stack
 
-> ### DevOps & Cloud
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40"/>
-</p>
+**Languages**
 
-> ### Tools
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-## 🔗 Connect with Me
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/m-hammad-qureshi" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn"/></a> 
-  <a href="mailto:hammadquraeshi79@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
-  <a href="https://wa.me/923019331961" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
+**Databases**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge\&logo=amazonrds\&logoColor=white)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge\&logo=awslambda\&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge\&logo=amazonec2\&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic%20Beanstalk-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+| Project                                                         | Stack                       | Description                                                                  |
+| --------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------- |
+| [8 Week SQL Challenge](./8-Week-SQL-Challenge/)     | MySQL                       | 8 real-world case studies — customer analytics, payments, retention and more |
+| [Data Redundancy System](./Task_1_Data_Redundancy_System_Design/)   | Lambda, S3, RDS, EC2        | Ensures data availability and protection against loss, deployed on AWS       |
+| [SQL Injection Prevention](./Task_2_Secure_Cloud_Data_Ingestion/) | Elastic Beanstalk, RDS, EC2 | Parameterized query system securing DB interactions, deployed on AWS         |
+
+---
+
+*Open to internships and collaboration opportunities in data engineering.*
